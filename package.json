@@ -1,0 +1,25 @@
+{
+  "name": "Cloud-Hosted-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "heroku": "^7.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i7soneee/Cloud-Hosted-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i7soneee/Cloud-Hosted-Bot/issues"
+  },
+  "homepage": "https://github.com/i7soneee/Cloud-Hosted-Bot#readme"
+}
